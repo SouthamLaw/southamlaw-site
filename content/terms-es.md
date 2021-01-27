@@ -5,6 +5,8 @@ id = "terms"
 lang = "es"
 +++
 
+## Spanish version forthcoming
+
 ## Why have these Terms and Conditions?
 
 These Terms and Conditions accompany Your Legal Services Agreement (that is, Your contract). These Terms and Conditions give more details rules to the Legal Services Agreement between You and the Law Office.
