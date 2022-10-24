@@ -6,12 +6,13 @@ lang = "en"
 
 # This page has information about
 
-<a href "#how-to-make-a-payment">How to make a payment</a><br>
+<a href="#How to make a payment">How to make a payment</a><br>
 When to make a payment<br>
 Account statements/invoices<br>
 Other tips
 
-## How to make a payment
+
+## <a id> How to make a payment</a>
 
 Southam Law LLC can accept payment by QuickPay/Zelle, checks/money orders, cash, and credit/debit cards. Be sure to include your <font color="#E52426"> full legal name </font> with your payment.
 
