@@ -8,7 +8,7 @@ theme = "airspace-hugo"
 
 [services]
   [services.googleAnalytics]
-    ID = 'G-MEASUREMENT_ID'
+    ID = 'G-EXRHD4HGVF'
 
 # The site's parameters
 [params]
