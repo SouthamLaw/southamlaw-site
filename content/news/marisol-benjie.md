@@ -1,6 +1,6 @@
 +++
 title = "Marisol, Johnny, and Benjie"
-pretitle = "success story: "
+pretitle = "Success Story: "
 date = "2017-12-16T00:00:00"
 description = "This is meta description for blog page"
 tags = ["success story"]
