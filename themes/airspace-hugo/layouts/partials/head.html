@@ -16,6 +16,7 @@
 <title>{{ .Title }}</title>
 
 {{ hugo.Generator }}
+{{ template "_internal/google_analytics.html" . }}
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
