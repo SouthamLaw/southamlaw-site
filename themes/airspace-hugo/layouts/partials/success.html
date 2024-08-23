@@ -2,7 +2,7 @@
 
 <!-- Grab success stories from the news section -->
 {{ $successes := slice }}
-{{ range (index .Site.Taxonomies.tags "success-story") }}
+{{ range (index .Site.Taxonomies.tags "success story") }}
   {{ $successes = $successes | append .Page }}
 {{ end }}
 
@@ -31,7 +31,7 @@
               <div class="portfolio-contant">
                 <div id="portfolio-contant-active">
                   {{ range $index, $element := $successes }}
-                  {{ $summary := split $element.Content " " }}
+                  {{ $summary := split $element.RawContent " " }}
                   {{ $summaryLen := len $summary }}
                   {{ $summary := first 20 $summary }}
 

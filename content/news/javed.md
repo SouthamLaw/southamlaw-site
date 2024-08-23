@@ -1,6 +1,6 @@
 +++
 title = "Laila's father, Javed"
-pretitle = "latest success story: "
+pretitle = "Latest Success Story: "
 date = "2017-10-16T00:00:00"
 description = "This is meta description for blog page"
 tags = ["success story"]

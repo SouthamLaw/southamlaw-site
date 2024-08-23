@@ -1,5 +1,6 @@
 +++
-title = "success story: Rahni immigrates from Canada"
+title = "Rahni immigrates from Canada"
+pretitle = "Success Story: "
 date = "2021-03-22T00:00:00"
 description = "This is meta description for blog page"
 tags = ["success story"]

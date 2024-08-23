@@ -1,6 +1,6 @@
 +++
 title = "Gabriela"
-pretitle = "success story: "
+pretitle = "Success Story: "
 date = "2017-03-30T00:00:00"
 description = "This is meta description for blog page"
 tags = ["success story"]

@@ -4,14 +4,16 @@ languageCode = "en-us"
 theme = "airspace-hugo"
 
 [markup.goldmark.renderer]
-  unsafe= true
+  unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-EXRHD4HGVF'
 
 # The site's parameters
 [params]
   home = "Home"
-
   [menu]
-
     [[menu.header]]
       weight = 2
       name = "Success stories"
